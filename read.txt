@@ -1,2 +1,2 @@
 This is a differenc writed by ldb
-Git tracks changes.
+Git tracks changes of files
